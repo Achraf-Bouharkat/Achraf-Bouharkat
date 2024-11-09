@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achraf-Bouharkat
-- 👀 I’m interested in Maths
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Maths & Cyber Security
+- 🌱 I’m currently learning Bug Hunting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my email achrafbouharkat89@gmail.com
 - 😄 Pronouns: he/him
