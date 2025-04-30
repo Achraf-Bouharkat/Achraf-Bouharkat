@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Achraf-Bouharkat
+- languages i learned C/C++,Java Script,HTML/CSS,PHP,SQL,C#,Java,MATLAB
+- Skills : GYM and FOOD expert , No Code skills ,UI/UX,design
 - 👀 I’m interested in Maths & Cyber Security
 - 🌱 I’m currently learning Bug Hunting
 - 💞️ I’m looking to collaborate on ...
